@@ -1,5 +1,5 @@
 public class Land {
-  property int Id
+  public int Id
   {
     get;
     set;
