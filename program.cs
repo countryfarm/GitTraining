@@ -1,2 +1,2 @@
-Console.WriteLine("Hello my dearest friends!");
+Console.WriteLine("Hello my old friends!");
 Console.ReadLine();
