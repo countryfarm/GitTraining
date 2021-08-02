@@ -5,6 +5,12 @@ public class Land
         get;
         set;
     }
+    public string LandCode
+    {
+        get;
+        set;
+    }
+
     public string Name
     {
         get;
