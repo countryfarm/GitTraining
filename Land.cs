@@ -23,4 +23,10 @@ public class Land
         get;
         set;
     }
+    
+    public decimal PricePaid
+    {
+        get;
+        set;
+    }
 }
