@@ -16,4 +16,10 @@ public class Land
         get;
         set;
     }
+
+    public decimal Acreage
+    {
+        get;
+        set;
+    }
 }
