@@ -17,6 +17,7 @@ public class Land
         set;
     }
 
+    // The size of the land in square meters
     public decimal Acreage
     {
         get;
