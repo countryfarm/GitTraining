@@ -29,4 +29,10 @@ public class Land
         get;
         set;
     }
+
+    public DateTime AcquisitionDate
+    {
+        get;
+        set;
+    }
 }
